@@ -1,0 +1,22 @@
+body{
+    background-image: url("images/background.jpg");
+    font-family: 'Lobster', cursive;
+} 
+.weather{
+    border-style:solid;
+    border-radius: 2px;
+    border-color: white;
+}
+
+.block{
+    background-color: teal;
+    opacity: .9;
+    color: white;
+    padding: 50px;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+    font-size: 1.5em;
+    padding-bottom: 2%;
+}
